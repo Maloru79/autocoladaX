@@ -1,78 +1,13 @@
 <!DOCTYPE html>
-<html lang="es">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mi Página</title>
-
-    <style>
-        body{
-            margin:0;
-            font-family: Arial, sans-serif;
-            background:#0f172a;
-            color:white;
-            text-align:center;
-        }
-
-        header{
-            padding:40px;
-            background:#1e293b;
-        }
-
-        h1{
-            margin:0;
-            font-size:2.5rem;
-        }
-
-        p{
-            color:#cbd5f5;
-        }
-
-        .container{
-            padding:60px 20px;
-        }
-
-        .btn{
-            display:inline-block;
-            padding:12px 24px;
-            margin-top:20px;
-            background:#3b82f6;
-            color:white;
-            text-decoration:none;
-            border-radius:8px;
-            transition:0.3s;
-        }
-
-        .btn:hover{
-            background:#2563eb;
-        }
-
-        footer{
-            margin-top:60px;
-            padding:20px;
-            background:#1e293b;
-            font-size:0.9rem;
-        }
-    </style>
+    <title>Mi primera página</title>
 </head>
 
 <body>
 
-<header>
-    <h1>Mi Proyecto</h1>
-    <p>Página web alojada en GitHub</p>
-</header>
-
-<section class="container">
-    <h2>Bienvenido</h2>
-    <p>Esta es la página principal de mi proyecto.</p>
-
-    <a class="btn" href="https://github.com/">Ver repositorio</a>
-</section>
-
-<footer>
-    © 2026 - Mi página web
-</footer>
+<h1>¡Funciona!</h1>
+<p>Esta es mi página en GitHub Pages.</p>
 
 </body>
 </html>
